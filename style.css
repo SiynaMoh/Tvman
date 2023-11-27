@@ -1,0 +1,36 @@
+body {
+    background-color: rgb(37, 37, 37);
+    margin-left: 400px;
+}
+
+h1 {
+    margin-left: 30px;
+}
+
+span {
+    color: purple;
+    background-color: white;
+    border-radius: 15px;
+    padding: 3px;
+}
+
+p {
+    font-size: 19px;
+}
+
+a {
+    position: absolute;
+    left: 40px;
+    background-color: white;
+    color: red;
+    border-radius: 15px;
+    padding: 8px;
+    text-decoration: none;
+    width: 73px;
+}
+
+.ali {
+    position: absolute;
+    left: 90px;
+    top: 23px;
+}
